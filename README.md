@@ -2,7 +2,7 @@
 Web programming class project
 
 
-Install VisualStudio  /t
+Install VisualStudio 
 Install SQLServer
 Open SQLServer
 Create a new Server
