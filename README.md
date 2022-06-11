@@ -4,6 +4,7 @@ Web programming class project
 
 Install VisualStudio 
 Install SQLServer
+Install Dotnet Runtime
 Open SQLServer
 Create a new Server
 Open HomeStayManagement.sln using VisualStudio
