@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Indie project\\Webprograming\\HomeStayManagement\\HomeStayManagement.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Web Programming\\Project\\HomeStayManagement.csproj": {}
   },
   "projects": {
-    "D:\\Indie project\\Webprograming\\HomeStayManagement\\HomeStayManagement.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Web Programming\\Project\\HomeStayManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Indie project\\Webprograming\\HomeStayManagement\\HomeStayManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Web Programming\\Project\\HomeStayManagement.csproj",
         "projectName": "HomeStayManagement",
-        "projectPath": "D:\\Indie project\\Webprograming\\HomeStayManagement\\HomeStayManagement.csproj",
-        "packagesPath": "C:\\Users\\hoath\\.nuget\\packages\\",
-        "outputPath": "D:\\Indie project\\Webprograming\\HomeStayManagement\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Web Programming\\Project\\HomeStayManagement.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Web Programming\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hoath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

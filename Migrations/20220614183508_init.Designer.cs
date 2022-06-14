@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HomeStayManagement.Migrations
 {
     [DbContext(typeof(HomeStayContext))]
-    [Migration("20220608062451_init")]
+    [Migration("20220614183508_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
